@@ -7,7 +7,35 @@ Members
 - Sarah Nasuha
 - Mok Wen Xuan
 
-  Classes: Employee, Customer, CustomerQueue, Program
+  Classes:
+Employee
+Customer
+CustomerQueue
+Program
+
   Method:
+Photocopy
+Register
+Printing
+Push Customer
+Pop Customer
+Payment
+Empty
+NumCustomer
+
+  Queue:
+CustomerQueue
+
   Variables:
+MaxSimTime
+Time
+Lambda
+avgServiceTime
+maxQueueSize
+timeCustomerArrival
+printserverFree
+printserviceTime
+totalCustomerArrived
+totalCustomerServed
+
   
